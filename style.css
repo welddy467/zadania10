@@ -1,0 +1,6 @@
+main{display:flex; height: 100vh;}
+#left{background-color:green; color:antiquewhite; width:100vw; height:962px; max-width: 70%;}
+#right{background-color:red; color:antiquewhite; width:750px; height:962px; max-width: 100%; }
+html,body{height: 100%;}
+#left{flex:1;}
+#top{text-align:center;background-color: black;height:220px; color: aliceblue;font-size:50px;width:100%; text-align:center;}
